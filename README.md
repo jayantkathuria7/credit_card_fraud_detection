@@ -1,6 +1,6 @@
 ### Credit Card Fraud Detection 🔍
 
-This repository contains a machine learning project focused on detecting fraudulent transactions in credit card datasets. The goal is to build a reliable and efficient model that minimizes false positives and accurately identifies fraudulent activities.  
+This repository contains a machine learning project focused on detecting fraudulent transactions in credit card datasets. The goal is to build a reliable and efficient model that minimizes false positives and accurately identifies fraudulent activities.
 
 ---
 
@@ -66,6 +66,12 @@ The project is currently not deployed, but future plans include integrating a we
 
 ---
 
+### 📔 Kaggle Notebook  
+You can explore the project implementation and visualizations on Kaggle:  
+[**Credit Card Fraud Detection Notebook**](https://www.kaggle.com/code/jayantkathuria/credit-card-fraud-detection/notebook)  
+
+---
+
 ### 🤝 Contributions  
 Contributions, issues, and feature requests are welcome!  
 
@@ -77,4 +83,4 @@ For questions or collaborations, feel free to reach out at **jayantkathuria7@gma
 ---
 
 ### 🏷️ Topics  
-Credit Card Fraud Detection Machine Learning Data Science Fraud Analytics Python EDA Supervised Learning
+Credit Card Fraud Detection Machine Learning Data Science Fraud Analytics Python EDA Supervised Learning Kaggle
