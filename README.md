@@ -14,7 +14,7 @@ This repository contains a machine learning project focused on detecting fraudul
 ---
 
 ### 📂 Dataset  
-The project uses an open-source **credit card fraud dataset** (available on Kaggle). The dataset contains anonymized features and includes both fraudulent and non-fraudulent transactions.  
+The project uses the **[Credit Card Fraud Detection Dataset](https://www.kaggle.com/mlg-ulb/creditcardfraud)**, which contains anonymized features and includes both fraudulent and non-fraudulent transactions.  
 
 ---
 
@@ -69,6 +69,12 @@ The project is currently not deployed, but future plans include integrating a we
 ### 📔 Kaggle Notebook  
 You can explore the project implementation and visualizations on Kaggle:  
 [**Credit Card Fraud Detection Notebook**](https://www.kaggle.com/code/jayantkathuria/credit-card-fraud-detection/notebook)  
+
+---
+
+### 🗂 Dataset Source  
+The dataset used in this project can be accessed here:  
+[**Credit Card Fraud Detection Dataset**](https://www.kaggle.com/mlg-ulb/creditcardfraud)  
 
 ---
 
