@@ -14,7 +14,7 @@ This repository contains a machine learning project focused on detecting fraudul
 ---
 
 ### 📂 Dataset  
-The project uses the **[Credit Card Fraud Detection Dataset](https://www.kaggle.com/mlg-ulb/creditcardfraud)**, which contains anonymized features and includes both fraudulent and non-fraudulent transactions.  
+The project uses the **[Credit Card Fraud Detection Dataset](https://www.kaggle.com/code/jayantkathuria/credit-card-fraud-detection)**, which contains anonymized features and includes both fraudulent and non-fraudulent transactions.  
 
 ---
 
